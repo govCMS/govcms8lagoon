@@ -17,10 +17,6 @@
             "url": "git@github.com:govcms/govcms.git"
         },
         {
-            "type": "vcs",
-            "url": "git@github.com:govCMS/scaffold-tooling.git"
-        },
-        {
             "type": "path",
             "url": "custom/composer"
         }
